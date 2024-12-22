@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  
+  <image id="0" name="FKP/1.jpg" width="3000" height="4500">
+    <points label="key_point" occluded="0" source="manual" points="1579.99,2153.33" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2070.72,2238.82" z_order="0">
+      <attribute name="Presumed_Location">true</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1751.13,2174.45" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1237.30,2259.00" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1414.29,2238.10" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1772.80,2326.60" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1486.70,2287.40" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1680.73,2698.00" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1988.79,2339.85" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1933.82,2308.80" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1647.19,2905.14" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1429.20,2815.38" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1803.70,2863.10" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1760.49,2467.14" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1117.21,2135.16" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+  </image>
+  <image id="1" name="FKP/10.jpg" width="8495" height="5663">
+    <points label="key_point" occluded="0" source="manual" points="6095.80,1423.80" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="6182.49,1377.17" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="6362.10,1403.50" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="5789.20,1419.80" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="5579.48,1364.72" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="5521.36,1401.04" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="5936.41,1719.36" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="6205.32,1994.66" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="5353.80,1267.60" z_order="0">
+      <attribute name="Presumed_Location">true</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="5843.30,1272.30" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="6498.70,1280.60" z_order="0">
+      <attribute name="Presumed_Location">true</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="6057.50,1271.20" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="5616.70,1925.90" z_order="0">
+      <attribute name="Presumed_Location">true</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="5882.96,1952.36" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="5879.84,2089.36" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+  </image>
+  <image id="2" name="FKP/11.jpg" width="5651" height="3768">
+    <points label="key_point" occluded="0" source="manual" points="2741.20,1086.60" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2813.89,1150.98" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2924.59,1110.64" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="3005.90,1111.64" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2596.95,1175.97" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2487.61,1151.08" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2410.70,1169.66" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2721.21,1426.78" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2948.39,1540.12" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2545.09,1588.63" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2732.00,1582.67" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2742.44,1697.50" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2304.80,1100.80" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2631.30,1088.90" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="3101.50,1041.50" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+  </image>
+  <image id="3" name="FKP/12.jpg" width="4950" height="3852">
+    <points label="key_point" occluded="0" source="manual" points="2649.58,2283.26" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2073.09,2274.57" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2368.70,2228.20" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2372.18,2385.85" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1735.30,1502.10" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2210.10,1417.80" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="3009.50,1461.10" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2871.71,1575.29" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2733.07,1549.58" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2570.39,1593.19" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2021.50,1561.51" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2193.29,1596.77" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1886.26,1586.47" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2527.86,1420.80" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2387.04,1929.65" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+  </image>
+  <image id="4" name="FKP/13.jpg" width="2000" height="1333">
+    <points label="key_point" occluded="0" source="manual" points="841.30,363.60" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1029.30,366.00" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1041.48,406.55" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1078.41,394.76" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1116.52,399.79" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="945.33,404.81" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="911.09,393.78" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="873.92,399.60" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1136.64,358.59" z_order="0">
+      <attribute name="Presumed_Location">true</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="996.93,488.11" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1070.44,558.05" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="914.95,562.87" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="992.98,553.72" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="995.34,608.12" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="958.60,363.10" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+  </image>
+  <image id="5" name="FKP/14.jpg" width="3875" height="5813">
+    <points label="key_point" occluded="0" source="manual" points="1956.66,2408.29" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1955.21,2250.85" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1727.79,2275.63" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2192.68,2291.81" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1948.64,2018.97" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1798.10,1597.17" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2500.28,1521.85" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2083.35,1581.62" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1523.46,1686.03" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1640.72,1666.62" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1793.00,1712.01" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2365.83,1650.34" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2254.50,1647.00" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2112.74,1708.52" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1387.40,1563.10" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+  </image>
+  <image id="6" name="FKP/15.jpg" width="3648" height="5472">
+    <points label="key_point" occluded="0" source="manual" points="1860.30,1215.30" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2092.99,1297.25" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2189.80,1313.93" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1701.69,1345.64" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1592.42,1323.01" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1491.83,1345.51" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1350.79,1299.79" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1828.69,1601.44" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2119.85,1809.94" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1593.46,1829.84" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1840.47,1777.23" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1853.05,1995.66" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1970.77,1331.48" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1737.30,1225.50" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2352.60,1273.50" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+  </image>
+  <image id="7" name="FKP/16.jpg" width="2987" height="3734">
+    <points label="key_point" occluded="0" source="manual" points="1054.62,1189.34" z_order="0">
+      <attribute name="Presumed_Location">true</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1352.10,1236.13" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1615.59,1205.52" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1736.95,1229.79" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="972.37,1146.19" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="824.04,1152.93" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1175.02,968.10" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="997.93,956.45" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="792.88,1525.01" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1262.63,2113.13" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="790.55,2032.98" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="848.80,1918.80" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="816.18,2161.13" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1910.60,1023.50" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="761.10,882.20" z_order="0">
+      <attribute name="Presumed_Location">true</attribute>
+    </points>
+  </image>
+  <image id="8" name="FKP/2.jpg" width="5184" height="3456">
+    <points label="key_point" occluded="0" source="manual" points="2408.57,2002.99" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2901.30,2002.99" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2665.42,1639.51" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="3212.82,1252.66" z_order="0">
+      <attribute name="Presumed_Location">true</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2822.68,1253.11" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2274.36,1388.58" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2380.10,1364.31" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2507.50,1406.78" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="3072.60,1378.17" z_order="0">
+      <attribute name="Presumed_Location">true</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2945.19,1363.44" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2809.81,1408.34" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2657.18,1914.63" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2651.94,2109.78" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2514.20,1239.50" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2122.50,1284.60" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+  </image>
+  <image id="9" name="FKP/3.jpg" width="6720" height="4480">
+    <points label="key_point" occluded="0" source="manual" points="2453.35,1577.94" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="3028.21,1669.69" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="3205.45,1653.68" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="3311.25,1691.13" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2704.55,1634.02" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2595.00,1584.40" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2976.72,1500.23" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="3450.47,1635.99" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2688.35,1454.35" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2344.12,1489.00" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2715.17,1989.82" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="3094.02,2312.05" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2512.93,2222.53" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2754.26,2203.65" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2716.51,2469.79" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+  </image>
+  <image id="10" name="FKP/4.jpg" width="4516" height="5622">
+    <points label="key_point" occluded="0" source="manual" points="2716.01,2837.13" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2340.36,4267.90" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2316.00,4008.03" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2027.70,4062.85" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2680.23,4003.97" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2256.41,3648.67" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1336.02,2789.19" z_order="0">
+      <attribute name="Presumed_Location">true</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2085.70,2791.22" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="3110.99,2662.63" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2383.47,2787.83" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1610.60,2906.64" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1801.53,2883.15" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2010.86,2951.78" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2917.71,2858.67" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2512.16,2931.22" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+  </image>
+  <image id="11" name="FKP/5.jpg" width="3456" height="5184">
+    <points label="key_point" occluded="0" source="manual" points="2223.14,2242.75" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2010.58,2318.26" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2428.98,2260.08" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1436.20,2350.76" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1212.75,2299.93" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1006.45,2346.25" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2590.49,2016.38" z_order="0">
+      <attribute name="Presumed_Location">true</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1452.44,2059.00" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="794.58,2110.25" z_order="0">
+      <attribute name="Presumed_Location">true</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1733.93,2845.74" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2185.48,3252.36" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1374.49,3279.31" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1754.15,3236.63" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1766.96,3481.05" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1921.90,2045.60" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+  </image>
+  <image id="12" name="FKP/6.jpg" width="7000" height="4667">
+    <points label="key_point" occluded="0" source="manual" points="4292.70,1297.58" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="4137.78,1241.98" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="4072.76,1271.24" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="4521.09,1174.85" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="4892.34,1172.76" z_order="0">
+      <attribute name="Presumed_Location">true</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="3952.15,1138.71" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="4433.96,1565.42" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="4587.25,1818.25" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="4248.71,1828.10" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="4447.68,1742.27" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="4437.93,1888.57" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="4635.00,1298.30" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="4344.80,1152.80" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="4550.35,1329.28" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="4783.13,1339.52" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+  </image>
+  <image id="13" name="FKP/7.jpg" width="3974" height="5000">
+    <points label="key_point" occluded="0" source="manual" points="1675.25,2493.81" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2120.39,2417.32" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2529.17,2407.29" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1887.16,2418.57" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1448.29,2393.49" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2007.69,2924.96" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2303.21,3063.09" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1657.10,3079.00" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1994.14,3095.59" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2301.50,2506.60" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1973.08,3313.78" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2141.20,2552.49" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="2426.35,2522.65" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1842.02,2541.46" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1552.36,2512.62" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+  </image>
+  
+  <image id="15" name="FKP/9.jpg" width="2656" height="4140">
+    <points label="key_point" occluded="0" source="manual" points="1351.60,1665.24" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1344.29,2126.19" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1316.25,1968.38" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1078.49,2014.06" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1463.37,1959.66" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1343.25,1843.79" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="915.61,1623.00" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1188.15,1576.28" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1535.10,1523.50" z_order="0">
+      <attribute name="Presumed_Location">true</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1345.70,1549.90" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="981.38,1704.89" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1051.48,1686.37" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1157.63,1693.38" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1501.87,1635.31" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+    <points label="key_point" occluded="0" source="manual" points="1418.35,1638.32" z_order="0">
+      <attribute name="Presumed_Location">false</attribute>
+    </points>
+  </image>
+</annotations>
+
